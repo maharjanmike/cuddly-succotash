@@ -14,7 +14,7 @@ namespace ConsoleApplication2
         }
 
         /// <summary>
-        /// Check if the word is isomorhic,
+        /// Check if the word is Isomorphic,
         /// </summary>
         /// <param name="first"></param>
         /// <param name="second"></param>
