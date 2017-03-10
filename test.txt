@@ -1,2 +1,0 @@
-This is to check slack intergraion
-This is adding webhook to the slack channel
